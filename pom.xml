@@ -8,6 +8,7 @@
 		<version>2.7.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+<!--es el unico pom que tiene en la etiqueta <packaging> el valor pom y no jar-->
 	<packaging>pom</packaging>
 	<groupId>com.jmg.checkagro</groupId>
 	<artifactId>CheckAgro</artifactId>
