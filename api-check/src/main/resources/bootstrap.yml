@@ -3,4 +3,7 @@ spring:
     name: api-check
   cloud:
     config:
+      enabled: true
       url: https://localhost:8888
+  profiles:
+    active: dev

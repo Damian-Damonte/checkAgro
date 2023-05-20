@@ -34,7 +34,7 @@
 			api-provider
 		</module>
 		<module>
-			eurekaServer
+			eureka-server
 		</module>
 	</modules>
 
